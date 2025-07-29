@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { FaMapMarkerAlt, FaBars, FaHome, FaSearch } from "react-icons/fa";
 import { IoClose } from "react-icons/io5";
+import { useNavigate } from "react-router-dom";
 // import morsalkimlogo from "../assets/images/mor_salkim_logo1.png";
 // import table from "../assets/images/table.png";
 import bell from "../assets/images/hotel-bell.png";
@@ -14,7 +15,7 @@ function Navbar() {
   const [showModal, setShowModal] = useState(false);
   const [selectedOption, setSelectedOption] = useState("");
   const [tableNumber, setTableNumber] = useState("");
-
+  const navigate = useNavigate();
   const toggleMenu = () => setIsOpen(!isOpen);
 
   useEffect(() => {
@@ -120,6 +121,29 @@ const handleSendRequest = async () => {
             </button>
           </div>
         </div>
+
+<div className="px-4">
+          <button
+            onClick={() => navigate("/MainPages")}
+            className="w-56 h-12  mt-8 px-6 py-3 mr-4 bg-green-500 text-white rounded-lg hover:bg-green-700 transition duration-300"
+          >
+            Menü
+          </button>
+          <button
+            onClick={() => navigate("/DavetSaloni")}
+            className="w-56 h-12 mt-8 mr-4 px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-700 transition duration-300"
+          >
+            Davet Salon
+          </button>
+          <button
+            onClick={() => navigate("/OyunSaloni")}
+            className="w-56 h-12 mt-8 mr-4 px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-700 transition duration-300"
+          >
+            Oyun Salon
+          </button>
+        </div>
+
+
       </div>
 
       {isOpen && (

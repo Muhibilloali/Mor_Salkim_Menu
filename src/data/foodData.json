@@ -2,25 +2,25 @@
   "Kahvaltılık": [
     {
       "name": "Serpme Kahvaltı (En az 2 kişiliktir)",
-      "ingredients": "Peynir çeşitleri, Zeytin çeşitleri, Domates ve salatalık, Domates sosu, Reçel çeşitleri, Yumurta çeşitleri, Et ürünleri, Su böreği, Patates kızartması, Ceviz, Çay",
+      "ingredients": "Peynir çeşitleri, Zeytin çeşitleri, Domates ve salatalık, Bal, Tereyağı, Tahin ve Pekmez, Reçel çeşitleri, Kaymak, Nutella, Fume Salam, Sigara böreği, Patates kızartması, Pişi, Patatesli börek, Menemen, Çay",
       "price": 650,
       "image": "https://omurrestaurant.com/wp-content/uploads/2021/10/e36eb9d4-a01d-49d9-804a-d643bda5ae8a.jpg"
     },
     {
       "name": "Kahvaltı Tabağı",
-      "ingredients": "Peynir çeşitleri, Zeytin çeşitleri, Domates sosu, Bal, Kaymak, Su böreği, Reçel çeşitleri, Haşlanmış yumurta, Çay",
+      "ingredients": "Peynir çeşitleri, Zeytin çeşitleri, Domates ve Salatalık, Haşlanmış yumurta,  Nutella, Fume Salam, Sigara böreği, Patates kızartması, Sosis, Patatesli börek, 1 adet fincan çay",
       "price": 350,
       "image": "https://menu.myqrcodemenu.com/files/products/b71c8b59-c6ac-4957-946e-8967c9f70bf0.jpg"
     },
     {
       "name": "Hızlı Kahvaltı",
-      "ingredients": "Peynir çeşitleri, Zeytin çeşitleri, Domates sosu, Bal, Kaymak, Su böreği, Reçel çeşitleri, Haşlanmış yumurta, Çay",
+      "ingredients": "Beyaz Peynir, Çeçil Peynir, Zeytin çeşitleri, Domates ve Salatalık, Haşlanmış yumurta, 1 adet çay",
       "price": 350,
       "image": "https://www.hacibekirkunc.com/upload/klasik-kahvalti-tabagi-1-7796.jpg"
     },
     {
       "name": "Sıcak Kahvaltı",
-      "ingredients": "Peynir çeşitleri, Zeytin çeşitleri, Domates sosu, Bal, Kaymak, Su böreği, Reçel çeşitleri, Haşlanmış yumurta, Çay",
+      "ingredients": "Patatesli börek, Sigara böreği, Patates kızartması, Közlenmiş Biber, Sucuk, Sade Omlet, 1 adet fincan çay",
       "price": 300,
       "image": "kahvalti_tabagi.jpg"
     },
@@ -204,25 +204,25 @@
       "name": "Barbekü Soslu Tavuk",
       "ingredients": "Izgara tavuk, barbekü sos, garnitür",
       "price": 250,
-      "image": "https://www.greenchef.com.tr/images/urunler/buyuk/barbeku-soslu-tavuk1527610704_1.jpg"
+      "image": "https://www.unileverfoodsolutions.com.tr/dam/global-ufs/mcos/TURKEY/calcmenu/recipes/TR-recipes/2023/july/meksika-usulu-barbeku-soslu-pilic/MeksikaUsulu_Main.jpg"
     },
     {
       "name": "Soya Soslu Tavuk",
       "ingredients": "Izgara tavuk, barbekü sos, garnitür",
       "price": 250,
-      "image": "https://www.greenchef.com.tr/images/urunler/buyuk/barbeku-soslu-tavuk1527610704_1.jpg"
+      "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/810cab8c8e2db7d6f71b4a6681a8fa99/Derivates/bc99392311ac0a48ab05eb99e11c9c47e58886e8.jpg"
     },
     {
       "name": "Mexican Soslu Tavuk",
       "ingredients": "Izgara tavuk, barbekü sos, garnitür",
       "price": 250,
-      "image": "https://www.greenchef.com.tr/images/urunler/buyuk/barbeku-soslu-tavuk1527610704_1.jpg"
+      "image": "https://bonuscoffee.com.tr/wp-content/uploads/2025/03/Soya-Soslu-Tavuk-1.jpg"
     },
     {
       "name": "Dağ Kekeli Tavuk",
       "ingredients": "Izgara tavuk, kekik ve baharatlar",
       "price": 0,
-      "image": "https://www.greenchef.com.tr/images/urunler/buyuk/barbeku-soslu-tavuk1527610704_1.jpg"
+      "image": "https://storage.kolaysiparis.com.tr/ks-prod/images/shop/66a378139bcfc/product/66accc0a53e27/6GF4wSjj6FYyaOum32s7AuRB9T4agcEdsXbZLqUn.png"
     },
 
     {
@@ -273,7 +273,7 @@
       "name": "Köfteli Wrap",
       "ingredients": "Lavaş içerisinde jülyen köfte, köz biber, iceberg, domates, turşu, kaşar peyniri, patates kızartması ve mevsim yeşillikleri ile",
       "price": 300,
-      "image": "kofteli-wrap1.jpg"
+      "image": "https://i.pinimg.com/736x/b6/27/bd/b627bd8aba84bb03c4600d8bb52c25a0.jpg"
     },
     {
       "name": "Tavuklu Wrap",
@@ -353,21 +353,9 @@
     }
   ],
   "Sıcak İçecekler": [
-    {
-      "name": "Nescafe",
-      "price": "125",
-      "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee.png"
-    },
-    { "name": "Çay", "price": 40, "image": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=85,format=webp/70036/uploads/urunresimleri/buyuk/beta-tac-yaprak-turk-cayi-500-gr--8ca6-.jpg" },
+    
     { "name": "Fincan Çay", "price": "50", "image": "https://www.cumhuriyetpark.net/upload/urunler/fincan_cay_3.jpg" },
-        { "name": "Türk Kahvesi", "price": "90", "image": "https://thumbs.dreamstime.com/b/pouring-turkish-coffee-beautifully-crafted-elegant-cup-enhances-enjoyment-aesthetic-shot-being-poured-ornate-350650165.jpg" },
-
-    { "name": "Salep", "price": "125", "image": "https://www.datocms-assets.com/43891/1615122196-salep-nedir-nasil-tuketilir-ve-salebin-faydalari-nelerdir-6745241765d83890da0648.jpg?auto=compress%2Cformat&fit=crop&h=490&w=790" },
-    {
-      "name": "Sıcak Çikolata",
-      "price": "125",
-      "image": "https://media.istockphoto.com/id/803432376/tr/foto%C4%9Fraf/ev-yap%C4%B1m%C4%B1-baharatl%C4%B1-s%C4%B1cak-%C3%A7ikolata-tar%C3%A7%C4%B1n-ile.jpg?s=612x612&w=0&k=20&c=eI4ecR0DiCfOM2L3KCwGEZsvPpTRpKEK5sCUqYFgtRU="
-    },
+    { "name": "Çay", "price": 40, "image": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=85,format=webp/70036/uploads/urunresimleri/buyuk/beta-tac-yaprak-turk-cayi-500-gr--8ca6-.jpg" },
     { "name": "Kış çayı", "price": "125", "image": "https://bengurme.com/cdn/shop/files/kis-cayi.png?v=1731073857" },
     { "name": "Ihlamur", "price": "125", "image": "https://www.buyukanadoluhastanesi.com/images/news/actual/Yhlamurun_Faydalari_Nelerdir_-_Buyuk_Anadolu_Hastanesi.jpg" },
     { "name": "Nane Limon", "price": "125", "image": "https://www.medicalpark.com.tr/_uploads/_images/_healthGuide/IZPLBQwC.jpg" },
@@ -375,16 +363,17 @@
     { "name": "Yeşil çay", "price": "125", "image": "https://bagisiklik.com/wp-content/uploads/yesil-cayli-5-sira-disi-tarif.jpg" },
     { "name": "Papatya", "price": "125", "image": "https://habertscom.teimg.com/crop/1280x720/haberts-com/uploads/2023/02/papatya-cayi-faydalari.jpg" },
     { "name": "Kış Atom", "price": "50", "image": "https://www.medicalpark.com.tr/_uploads/_images/_healthGuide/G1JsngCf.jpg" },
- 
+    { "name": "Türk Kahvesi", "price": "90", "image": "https://thumbs.dreamstime.com/b/pouring-turkish-coffee-beautifully-crafted-elegant-cup-enhances-enjoyment-aesthetic-shot-being-poured-ornate-350650165.jpg" },
     { "name": "Espresso", "price": "150", "image": "https://ticosbakery.com/cdn/shop/products/ScreenShot2022-12-03at9.23.15PM.png?v=1670120628" },
     { "name": "Macchiato", "price": "150", "image": "https://avatars.mds.yandex.net/get-shedevrum/12370990/754353c9b8ac11eebbb77a83974e0feb/orig" },
     { "name": "Americano", "price": "150", "image": "https://majestycoffee.com/cdn/shop/articles/americano_b74a8154-454b-4f74-9a6c-95fbc4152ed3_800x.jpg?v=1684048195" },
     { "name": "Cafe Latte", "price": "150", "image": "https://cdn7.kiwilimon.com/recetaimagen/36986/640x640/46349.jpg.webp" },
     { "name": "Cafe Mocha", "price": "160", "image": "https://images.freeimages.com/images/large-previews/cdc/coffee-mocha-1317730.jpg" },
     { "name": "Sütlü Filtre Kahve", "price": "150", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKQaD6NwzxyvRn8d7G5pN6jkF2lSVkhvZ5aA&s" },
-    { "name": "Sütlü Nescafe", "price": "135", "image": "https://menu.myqrcodemenu.com/files/products/a62056fa-502b-4104-87c3-02e353bddb9c7f02eead-1ba5-4d42-b500-4eed0ad68670.jpg" },
-    { "name": "Sade Nescafe", "price": "125", "image": "https://menu.myqrcodemenu.com/files/products/a4ad7390-b832-43bd-a293-060d5db2e18e67ffd64c-8f00-4393-834a-1bead8f7fcf8.jpeg" }
-
+    { "name": "Nescafe", "price": "135", "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee.png" },
+    { "name": "Sade Nescafe", "price": "125", "image": "https://menu.myqrcodemenu.com/files/products/a4ad7390-b832-43bd-a293-060d5db2e18e67ffd64c-8f00-4393-834a-1bead8f7fcf8.jpeg" },
+    { "name": "Salep", "price": "125", "image": "https://www.datocms-assets.com/43891/1615122196-salep-nedir-nasil-tuketilir-ve-salebin-faydalari-nelerdir-6745241765d83890da0648.jpg?auto=compress%2Cformat&fit=crop&h=490&w=790" },
+    { "name": "Sıcak Çikolata", "price": "125", "image": "https://media.istockphoto.com/id/803432376/tr/foto%C4%9Fraf/ev-yap%C4%B1m%C4%B1-baharatl%C4%B1-s%C4%B1cak-%C3%A7ikolata-tar%C3%A7%C4%B1n-ile.jpg?s=612x612&w=0&k=20&c=eI4ecR0DiCfOM2L3KCwGEZsvPpTRpKEK5sCUqYFgtRU=" }
   ],
   "Soğuk İçecekler": [
     {
@@ -415,17 +404,9 @@
       "price": "150",
       "image": "https://www.grandozerhotel.com/images/portakal-suyunun-faydalari.jpg"
     },
-    {
-      "name": "Atom",
-      "price": "150",
-      "image": "https://avatars.mds.yandex.net/i?id=aff4da78f80505b4d03161446a8a7134046420fe-4628663-images-thumbs&n=13"
-    },
-    {
-      "name": "Churchil",
-      "price": "70",
-      "image": "https://image.hurimg.com/i/hurriyet/75/0x0/5ea6e5c87af5071758aa27c5.jpg"
-    },
-    { "name": "Cappy Meyve Suları", "price": "0", "image": "https://shop.efeskurumsal.com/img/urun/urun-b_Cappy_Meyve_Suyu_cesitleri_1_Lt.jpg" },
+    { "name": "Atom", "price": "150", "image": "https://avatars.mds.yandex.net/i?id=aff4da78f80505b4d03161446a8a7134046420fe-4628663-images-thumbs&n=13" },
+    { "name": "Churchil", "price": "70", "image": "https://image.hurimg.com/i/hurriyet/75/0x0/5ea6e5c87af5071758aa27c5.jpg" },
+    { "name": "Cappy Meyve Suları", "price": "0", "image": "https://mir-s3-cdn-cf.behance.net/projects/404/f8a231229291199.Y3JvcCwyNDgwLDE5MzksMCw3ODU.png" },
 
     { "name": "Iced Latte", "price": "150", "image": "https://images.ctfassets.net/v601h1fyjgba/4GLzOncHIe8rq3xY099cZ/dd17ce72ebb6fb01659c763fe64953db/Iced_Latte.jpg" },
     { "name": "Iced Mocha", "price": "150", "image": "https://vibrantlygfree.com/wp-content/uploads/2023/07/iced-mocha-1.jpg" },
@@ -434,8 +415,6 @@
     { "name": "Iced Vanilla Latte", "price": "150", "image": "https://instantpot.com/cdn/shop/articles/Iced-Vanilla-Latte-min.jpg?v=1707923262&width=3000" },
     { "name": "Iced Caramel Latte", "price": "150", "image": "https://zuzu.qrmenum.app/img/yuklenen/buyuk/iced-caramel-latte-1077.jpg" },
     { "name": "Iced Americano", "price": "150", "image": "https://www.flory.com.tr/wp-content/uploads/2021/10/Ice-Americano.jpg" },
-
-
     {
       "name": "Karamel Frappe",
       "price": "150",
@@ -475,35 +454,46 @@
     }
   ],
   "Nargile Çeşitleri": [
+    
     {
-      "name": "Nargile",
-      "price": 150,
-      "image": "https://menu.myqrcodemenu.com/files/products/80b19454-15a2-493f-a789-934b3c7b69423acd4fe4-3e06-4313-9ef4-dd2f96d820f9.jpg"
+      "name": "Ledy Killer",
+      "price": 350,
+      "image": "https://elipsnargile.com/wp-content/uploads/2025/04/lady-killer-Photoroom.jpg"
     },
     {
-      "name": "Elma Nargile",
-      "price": 150,
-      "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1692/prod/QC_ENRICHMENT/20250612/20/e73a79a7-602e-3c70-bf42-7074f47f9418/1_org.jpg"
+      "name": "Love 66",
+      "price": 350,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMSbHSOw2O_bujBKRmO33N-Wc5sIXEwcqL3DxuyOEf5F98lDQEBMPRrGP3Qe6KBB50M9Y&usqp=CAU"
     },
     {
-      "name": "Üzüm Nargile",
-      "price": 150,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYGrFTWmfs4p1rz2y315yS938bCvAV6gVrw&s"
+      "name": "Dejavu",
+      "price": 350,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdGiOLXHysiwN-Bf0NmItjZFntvPouFzIlISVuaQvYVllSXGGhH5MsehzZQ1Zvbrc_4KY&usqp=CAU"
     },
     {
-      "name": "Nane Limon Nargile",
-      "price": 160,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrWZ2UHsUr2zZ_XydYl3UW7ZB0NCAPOT4Nw&s"
+      "name": "Nane",
+      "price": 350,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jyj-O16y2ikSnwSRj6zNEUabssoRhpq3iO1JEAkwXkuIqEnHGVX633I9GsCBx1FdSbc&usqp=CAU"
     },
     {
-      "name": "Karpuz Nargile",
-      "price": 160,
-      "image": "https://falcononlinesatis.b-cdn.net/wp-content/uploads/2024/11/watermelon.jpg"
+      "name": "Üzüm",
+      "price": 350,
+      "image": "https://cdn.turkishexporter.com.tr/storage/images/products/e60ff26d-2b81-4a53-b150-f2f737fdda6f.jpg"
     },
     {
-      "name": "Special Karışık Nargile",
+      "name": "Portakal",
       "price": 180,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cgwFOs8vhCoD78GxlfVQ6gt6xG9pBMYK_A&s"
+      "image": "https://www.nargiledukkani.com/upload/editor/data/ckfinder/images/haberler/nargile-tutun-cesitleri-ve-aroma-karisimlari.jpg"
+    },
+    {
+      "name": "Gangster",
+      "price": 350,
+      "image": "https://orjinalhookah-org.b-cdn.net/wp-content/uploads/2020/08/daim-tonacco-infinity-50gr-nargile-tutunu-494x593.webp"
+    },
+    {
+      "name": "Cappucino",
+      "price": 350,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8VO7gSNGLvCOWFuulLwZpAm_MhNfbQiCzA&s"
     }
   ]
 }

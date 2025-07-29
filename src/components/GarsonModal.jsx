@@ -44,7 +44,7 @@ const GarsonModal = ({ onClose }) => {
         setIsSent(false);
         setSelectedCategory("");
         setTableNumber("");
-        onClose();
+        // onClose();
       }, 3000);
     } catch (err) {
       setError("Mesaj gönderilemedi. Lütfen tekrar deneyin.");

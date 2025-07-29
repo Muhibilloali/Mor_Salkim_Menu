@@ -1,6 +1,9 @@
-import React from 'react'
+import { useNavigate } from "react-router-dom";
 
 function SidebarPage() {
+
+const navigate = useNavigate();
+
   return (
     <div>
       <div className="p-4 space-y-4">
@@ -47,6 +50,9 @@ function SidebarPage() {
             </button>
           </div>
         </div>
+
+
+
           {/* {isOpen && (
             <div
               className="fixed inset-0 bg-black bg-opacity-30 z-40"

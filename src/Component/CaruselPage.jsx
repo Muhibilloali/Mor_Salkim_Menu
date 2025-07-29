@@ -77,7 +77,7 @@ function CaruselPages() {
               className="w-full h-28 object-cover rounded-md"
             />
             <h3 className="font-bold mt-2 text-sm">{item.name}</h3>
-            <p className="text-xs text-white min-h-[32px]">{item.ingredients}</p>
+            <p className="text-xs text-black min-h-[32px]">{item.ingredients}</p>
 
             <div className="flex justify-between items-center mt-2">
               <p className="text-sm font-semibold">{item.price} ₺</p>
