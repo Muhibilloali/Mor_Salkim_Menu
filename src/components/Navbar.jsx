@@ -4,8 +4,6 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import { FaMapMarkerAlt, FaBars, FaHome, FaSearch } from "react-icons/fa";
 import { IoClose } from "react-icons/io5";
 import { useNavigate } from "react-router-dom";
-// import morsalkimlogo from "../assets/images/mor_salkim_logo1.png";
-// import table from "../assets/images/table.png";
 import bell from "../assets/images/hotel-bell.png";
 
 function Navbar() {

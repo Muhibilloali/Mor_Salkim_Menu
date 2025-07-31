@@ -29,12 +29,12 @@ const Footer = () => {
           <h3 className="text-lg font-semibold mb-2">Bizi Takip Edin</h3>
           <div className="flex space-x-6">
             <a
-              href="https://facebook.com/morsalkimloungecafe/"
+              href="https://www.tiktok.com/@morsalkimloungecafe"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-400"
             >
-              Facebook
+              Tiktok
             </a>
             <a
               href="https://www.instagram.com/morsalkimloungecafe/"
@@ -72,7 +72,8 @@ const Footer = () => {
           >
             <p>Adres: Atatürk, Atatürk Cd. 167A, 34870 Sancaktepe/İstanbul</p>
           </a>
-          <p>Açılış Saatleri: 07:30 - 01:00</p>
+          <p>Açılış Saatleri: 06:30 - 00:00</p>
+          <p>Hafta Sonu: 06:30 - 01:00</p>
         </div>
 
         {/* Geliştirici Bilgisi */}

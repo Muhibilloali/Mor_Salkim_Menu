@@ -13,16 +13,17 @@
       "image": "https://menu.myqrcodemenu.com/files/products/b71c8b59-c6ac-4957-946e-8967c9f70bf0.jpg"
     },
     {
-      "name": "Hızlı Kahvaltı",
+      "name": "Hızlı Kahvaltı 06:00 - 10:00",
       "ingredients": "Beyaz Peynir, Çeçil Peynir, Zeytin çeşitleri, Domates ve Salatalık, Haşlanmış yumurta, 1 adet çay",
-      "price": 350,
+      "price": 150,
+      "isDiscounted": true,
       "image": "https://www.hacibekirkunc.com/upload/klasik-kahvalti-tabagi-1-7796.jpg"
     },
     {
       "name": "Sıcak Kahvaltı",
       "ingredients": "Patatesli börek, Sigara böreği, Patates kızartması, Közlenmiş Biber, Sucuk, Sade Omlet, 1 adet fincan çay",
       "price": 300,
-      "image": "kahvalti_tabagi.jpg"
+      "image": "https://zuzulounge.qrmenum.app/img/yuklenen/buyuk/sicak-kahvalti-1294.jpg"
     },
     {
       "name": "Kaşarlı Tost",
@@ -90,9 +91,9 @@
     { "name": "Sucuklu Menemen", "price": 175, "image": "http://www.roka.com.tr/resimler/26082016154330.jpg" },
     { "name": "Karışık Menemen", "price": 200, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcOiYBSDyGVD_LKe1_8tCQHtaPqDqpbkZOPQ&s" },
 
-    { "name": "Kaşarlı Gözleme", "price": 0, "image": "https://lh3.googleusercontent.com/proxy/Nw5BekxssEsvNHGKaeIwhJhC7ayCqHyYCQN6tBxPhmNUgE77FTVJSVkBv03wpZwsj7tah94dLHGVQ3PJ5uvVKMjmi7qV" },
-    { "name": "Kavurmalı Gözleme", "price": 0, "image": "https://avatars.mds.yandex.net/i?id=55948dd87e7662c5e532fdbefaba1598e37bfbc5-5493168-images-thumbs&n=13" },
-    { "name": "Karışık Gözleme", "price": 0, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvtHfZbPELdeWRQ76DKQQL7ZrsncFYjZGKzblBQaTulscHCl2aBMLjp5FTXImLwV0uHRA&usqp=CAU" }
+    { "name": "Kaşarlı Gözleme", "price": 150, "image": "https://lh3.googleusercontent.com/proxy/Nw5BekxssEsvNHGKaeIwhJhC7ayCqHyYCQN6tBxPhmNUgE77FTVJSVkBv03wpZwsj7tah94dLHGVQ3PJ5uvVKMjmi7qV" },
+    { "name": "Kavurmalı Gözleme", "price": 200, "image": "https://avatars.mds.yandex.net/i?id=55948dd87e7662c5e532fdbefaba1598e37bfbc5-5493168-images-thumbs&n=13" },
+    { "name": "Karışık Gözleme", "price": 200, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvtHfZbPELdeWRQ76DKQQL7ZrsncFYjZGKzblBQaTulscHCl2aBMLjp5FTXImLwV0uHRA&usqp=CAU" }
   ],
 
   "Aparatifler": [
@@ -123,22 +124,22 @@
     },
     {
       "name": "Sade Patso",
-      "price": 150,
+      "price": 175,
       "image": "https://ttmenu.com/tantunisimay/patso/patso.jpg"
     },
     {
       "name": "Karşarlı Patso",
-      "price": 175,
+      "price": 195,
       "image": "https://patsocum.com/wp-content/uploads/2024/10/kasarli-patso.jpg"
     },
     {
       "name": "Sosisli Patso",
-      "price": 175,
+      "price": 195,
       "image": "https://i0.wp.com/patsocum.com/wp-content/uploads/2024/10/sosisli-patso.jpg?fit=1080%2C866&ssl=1"
     },
     {
       "name": "Tavuklu Patso",
-      "price": 200,
+      "price": 225,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVTDHeVy8Hi7IKYH8gx8OKkGeBsmLgYhKpxg&s"
     },
     {
@@ -153,44 +154,73 @@
     },
     {
       "name": "Tavuklu Sandviç",
-      "price": 250,
+      "price": 225,
       "image": "https://i.pinimg.com/736x/f6/02/2e/f6022e9e3a0fab658fc6e5d73ec3978f.jpg"
     },
     {
       "name": "Soğuk Sandviç",
-      "price": 150,
+      "price": 75,
       "image": "https://static5.depositphotos.com/1001069/494/i/450/depositphotos_4945366-stock-photo-long-sandwich-ham-cheese-tomatoes.jpg"
     }
   ],
+
+"Çorbalar": [
+    {
+      "name": "Mercimek Çorbası",
+      "ingredients": "Kırmızı mercimek, soğan, havuç, un",
+      "price": 75,
+      "image": "https://macromorestr001.blob.core.windows.net/macromorecontents/2017/02/1485907200-d64a75436babe8cca88e8fa8d879e045.jpg"
+    },
+    {
+      "name": "Ezogelin Çorbası",
+      "ingredients": "Kırmızı mercimek, bulgur, pirinç, domates salçası, nane",
+      "price": 75,
+      "image": "https://www.bereketlahmacun.net/photo/menu_resimleri/ezogelin-corbasi_5f734564ec85453.jpg"
+    },
+    {
+      "name": "Tavuk Suyu Çorbası",
+      "ingredients": "Tavuk eti, tavuk suyu, şehriye veya pirinç",
+      "price": 75,
+      "image": "https://static.ticimax.cloud/cdn-cgi/image/width=496,quality=85,format=webp/67336/uploads/urunresimleri/buyuk/tavuk-suyu-corbasi-500ml-4abf-a.jpg"
+    },
+    {
+      "name": "Tarhana Çorbası",
+      "ingredients": "Tarhana, yoğurt, domates salçası, un, nane",
+      "price": 75,
+      "image": "https://image.hurimg.com/i/hurriyet/75/750x422/5e8e23097152d806c09fd7d6.jpg"
+    }
+
+  ],
+
   "Sıcak Yemekler": [
     {
       "name": "Izgara Bonfile",
-      "ingredients": "Izgara bonfile, garnitür ve özel sos",
+      "ingredients": "Izgara bonfile, pilav ve özel sos",
       "price": 400,
       "image": "https://freepngimg.com/save/139203-food-plate-top-nutrition-view/531x518.jpg"
     },
     {
       "name": "Izgara Tavuk Bonfile",
-      "ingredients": "Izgara tavuk bonfile, garnitür ve özel sos",
+      "ingredients": "Izgara tavuk bonfile, pilav ve özel sos",
       "price": 300,
       "image": "https://image.hurimg.com/i/hurriyet/75/750x422/5f7d8b81c9de3d0decae3e40.jpg"
     },
     {
-      "name": "Köfte Izgara",
-      "ingredients": "Izgara köfte, garnitür ve özel sos",
+      "name": "Izgara Köfte",
+      "ingredients": "Izgara köfte, pilav ve özel sos",
       "price": 325,
       "image": "https://www.limancatering.dk/wp-content/uploads/Koefte-scaled.jpg"
     },
     {
       "name": "Et Sote",
-      "ingredients": "",
-      "price": 325,
+      "ingredients": "Et, soğan, domates, biber ve baharatlarlar",
+      "price": 350,
       "image": "https://www.olgunet.com/wp-content/uploads/2018/02/1.jpg"
     },
     {
       "name": "Saç Kavurma",
-      "ingredients": "Izgara köfte, garnitür ve özel sos",
-      "price": 0,
+      "ingredients": "Izgara köfte, pilav ve özel sos",
+      "price": 400,
       "image": "https://menu.golpiknik.com/wp-content/uploads/2022/11/sac-kavurma-copy-min.jpg"
     },
 
@@ -202,45 +232,45 @@
     },
     {
       "name": "Barbekü Soslu Tavuk",
-      "ingredients": "Izgara tavuk, barbekü sos, garnitür",
+      "ingredients": "Izgara tavuk, barbekü sos, pilav",
       "price": 250,
       "image": "https://www.unileverfoodsolutions.com.tr/dam/global-ufs/mcos/TURKEY/calcmenu/recipes/TR-recipes/2023/july/meksika-usulu-barbeku-soslu-pilic/MeksikaUsulu_Main.jpg"
     },
     {
       "name": "Soya Soslu Tavuk",
-      "ingredients": "Izgara tavuk, barbekü sos, garnitür",
+      "ingredients": "Izgara tavuk, barbekü sos, pilav",
       "price": 250,
       "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/810cab8c8e2db7d6f71b4a6681a8fa99/Derivates/bc99392311ac0a48ab05eb99e11c9c47e58886e8.jpg"
     },
     {
       "name": "Mexican Soslu Tavuk",
-      "ingredients": "Izgara tavuk, barbekü sos, garnitür",
+      "ingredients": "Izgara tavuk, barbekü sos, pilav",
       "price": 250,
       "image": "https://bonuscoffee.com.tr/wp-content/uploads/2025/03/Soya-Soslu-Tavuk-1.jpg"
     },
     {
       "name": "Dağ Kekeli Tavuk",
       "ingredients": "Izgara tavuk, kekik ve baharatlar",
-      "price": 0,
+      "price": 250,
       "image": "https://storage.kolaysiparis.com.tr/ks-prod/images/shop/66a378139bcfc/product/66accc0a53e27/6GF4wSjj6FYyaOum32s7AuRB9T4agcEdsXbZLqUn.png"
     },
 
     {
       "name": "Penne Arrabiata",
       "ingredients": "Acılı arrabiata sos, zeytin ve permasan",
-      "price": 250,
+      "price": 200,
       "image": "https://istanburger.com.tr/upload/resimler/bb13b8de-c2a1-43a3-a55d-acbad4ff4d0d.jpg"
     },
     {
       "name": "Schnitzel",
-      "ingredients": "Pane edilmiş tavuk göğsü, garnitür ve özel sos",
-      "price": 300,
+      "ingredients": "Pane edilmiş tavuk göğsü, pilav ve özel sos",
+      "price": 250,
       "image": "https://img.youtube.com/vi/qc416ePJTDw/sddefault.jpg"
     },
     {
       "name": "Spaghetti Napolitan",
       "ingredients": "Domates sos, baharatlar ve permasan",
-      "price": 250,
+      "price": 175,
       "image": "https://menu.myqrcodemenu.com/files/products/d0a2cf5e-5b09-4cf1-aa02-f8e5124def28af066e03-87be-40a7-b3c1-95bdbff4b83d.jpeg"
     },
     {
@@ -252,7 +282,7 @@
     {
       "name": "Köri Soslu Makarna",
       "ingredients": "Köri sos, sebzeler ve baharatlar",
-      "price": 250,
+      "price": 175,
       "image": "https://www.greenchef.com.tr/images/urunler/buyuk/kori-soslu-tavuk1527609322_1.jpg"
     },
 
@@ -265,7 +295,7 @@
     {
       "name": "Tavuk Burger",
       "ingredients": "Köfte, marul, domates, turşu, soğan, ketçap ve mayonez",
-      "price": 200,
+      "price": 175,
       "image": "https://media.istockphoto.com/id/172449461/tr/foto%C4%9Fraf/chicken-burger.jpg?s=612x612&w=0&k=20&c=kbfsONVG816sUVaNfmqWDfZ6_D6tWHqf8x6bpyHrbT0="
     },
 
@@ -293,19 +323,25 @@
     {
       "name": "Sezar Salata",
       "ingredients": "Marul, tavuk göğsü, parmesan peyniri, kruton ekmek",
-      "price": 200,
+      "price": 225,
       "image": "https://www.diyetkolik.com/site_media/media/foodrecipe_images/tavuklu-sezar-salata.png"
+    },
+    {
+      "name": "Akdeniz Salata",
+      "ingredients": "Marul, domates, salatalık, zeytin, beyaz peynir, zeytinyağı",
+      "price": 200,
+      "image": "https://www.tranche.com.tr/img/products/tranche-akdeniz-salata_27.04.2023_02f77b8.jpg"
     },
     {
       "name": "Mevsim Salata",
       "ingredients": "Mevsim yeşillikleri, domates, salatalık, havuç, zeytinyağı",
-      "price": 0,
+      "price": 190,
       "image": "https://cemilhoca.com.tr/qr/wp-content/uploads/2024/11/Salata.webp"
     },
     {
       "name": "Ton Balıklı Salata",
       "ingredients": "Ton balığı, marul, domates, salatalık, zeytinyağı",
-      "price": 0,
+      "price": 250,
       "image": "https://www.yemekolay.com/wp-content/uploads/2023/12/ton-balikli-salata-16.webp"
     }
 
@@ -321,13 +357,13 @@
     {
       "name": "Sütlaç",
       "ingredients": "Pirinç, süt, şeker, tarçın",
-      "price": 100,
+      "price": 110,
       "image": "https://nasdoner.com/admin/public/img/products/sutlac.webp?ver=1.2.0"
     },
     {
       "name": "Magnolia",
       "ingredients": "Sütlü krema, bisküvi kırıntıları, çilek",
-      "price": 150,
+      "price": 140,
       "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/7b469d4538bb9e2667c540f6c0310f33/Derivates/2cab109c744bce1e7184ce92905d1ecf8295ed08.jpg"
     },
     {
@@ -355,7 +391,7 @@
   "Sıcak İçecekler": [
     
     { "name": "Fincan Çay", "price": "50", "image": "https://www.cumhuriyetpark.net/upload/urunler/fincan_cay_3.jpg" },
-    { "name": "Çay", "price": 40, "image": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=85,format=webp/70036/uploads/urunresimleri/buyuk/beta-tac-yaprak-turk-cayi-500-gr--8ca6-.jpg" },
+    { "name": "Çay", "price": "40", "image": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=85,format=webp/70036/uploads/urunresimleri/buyuk/beta-tac-yaprak-turk-cayi-500-gr--8ca6-.jpg" },
     { "name": "Kış çayı", "price": "125", "image": "https://bengurme.com/cdn/shop/files/kis-cayi.png?v=1731073857" },
     { "name": "Ihlamur", "price": "125", "image": "https://www.buyukanadoluhastanesi.com/images/news/actual/Yhlamurun_Faydalari_Nelerdir_-_Buyuk_Anadolu_Hastanesi.jpg" },
     { "name": "Nane Limon", "price": "125", "image": "https://www.medicalpark.com.tr/_uploads/_images/_healthGuide/IZPLBQwC.jpg" },
@@ -364,11 +400,12 @@
     { "name": "Papatya", "price": "125", "image": "https://habertscom.teimg.com/crop/1280x720/haberts-com/uploads/2023/02/papatya-cayi-faydalari.jpg" },
     { "name": "Kış Atom", "price": "50", "image": "https://www.medicalpark.com.tr/_uploads/_images/_healthGuide/G1JsngCf.jpg" },
     { "name": "Türk Kahvesi", "price": "90", "image": "https://thumbs.dreamstime.com/b/pouring-turkish-coffee-beautifully-crafted-elegant-cup-enhances-enjoyment-aesthetic-shot-being-poured-ornate-350650165.jpg" },
-    { "name": "Espresso", "price": "150", "image": "https://ticosbakery.com/cdn/shop/products/ScreenShot2022-12-03at9.23.15PM.png?v=1670120628" },
-    { "name": "Macchiato", "price": "150", "image": "https://avatars.mds.yandex.net/get-shedevrum/12370990/754353c9b8ac11eebbb77a83974e0feb/orig" },
-    { "name": "Americano", "price": "150", "image": "https://majestycoffee.com/cdn/shop/articles/americano_b74a8154-454b-4f74-9a6c-95fbc4152ed3_800x.jpg?v=1684048195" },
-    { "name": "Cafe Latte", "price": "150", "image": "https://cdn7.kiwilimon.com/recetaimagen/36986/640x640/46349.jpg.webp" },
-    { "name": "Cafe Mocha", "price": "160", "image": "https://images.freeimages.com/images/large-previews/cdc/coffee-mocha-1317730.jpg" },
+    { "name": "Espresso", "price": "100", "image": "https://ticosbakery.com/cdn/shop/products/ScreenShot2022-12-03at9.23.15PM.png?v=1670120628" },
+    { "name": "Macchiato", "price": "100", "image": "https://avatars.mds.yandex.net/get-shedevrum/12370990/754353c9b8ac11eebbb77a83974e0feb/orig" },
+    { "name": "Americano", "price": "100", "image": "https://majestycoffee.com/cdn/shop/articles/americano_b74a8154-454b-4f74-9a6c-95fbc4152ed3_800x.jpg?v=1684048195" },
+    { "name": "Cafe Latte", "price": "110", "image": "https://cdn7.kiwilimon.com/recetaimagen/36986/640x640/46349.jpg.webp" },
+    { "name": "Cafe Mocha", "price": "140", "image": "https://images.freeimages.com/images/large-previews/cdc/coffee-mocha-1317730.jpg" },
+    { "name": "Filtre Kahve", "price": "125", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKQaD6NwzxyvRn8d7G5pN6jkF2lSVkhvZ5aA&s" },
     { "name": "Sütlü Filtre Kahve", "price": "150", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKQaD6NwzxyvRn8d7G5pN6jkF2lSVkhvZ5aA&s" },
     { "name": "Nescafe", "price": "135", "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee.png" },
     { "name": "Sade Nescafe", "price": "125", "image": "https://menu.myqrcodemenu.com/files/products/a4ad7390-b832-43bd-a293-060d5db2e18e67ffd64c-8f00-4393-834a-1bead8f7fcf8.jpeg" },
@@ -383,17 +420,18 @@
     },
     {
       "name": "Strawberryhaze",
-      "price": "0",
+      "price": "150",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9iTdYOUdGAJ8xePzrXkiMOeWBPlSfTRsQVheNQUtwCESnh9ocXO46B7Yik272OfRnyE&usqp=CAU"
     },
     {
       "name": "Coll Lime",
-      "price": "175",
+      "price": "150",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoEq3DFlIaT2UaGrENargd1rqAQ4OdFp4zd_fCEiy-5Uv-q0knRBoJ9zzXVpUoHLQk0BE&usqp=CAU"
     },
-    { "name": "Su (500 ml)", "price": "30", "image": "https://cdn.dsmcdn.com/mnresize/420/620/ty1626/prod/QC/20250120/19/57e02b4f-c69c-38ea-a63e-0b8ad0348db9/1_org_zoom.jpg" },
-    { "name": "Meyveli Soda", "price": "35", "image": "https://storage.kolaysiparis.com.tr/ks-prod/images/shop/60f07ad3dca14/products/611fc2b1ca7c6/61e6000a54a4d.jpeg" },
-    { "name": "Ayran", "price": "30", "image": "https://cagri.com/_next/image?url=https%3A%2F%2Fimages.cagri.com%2Fproduct%2F1595%2F1735267921622-6111-8692971020709.jpg&w=640&q=75" },
+    { "name": "Su (500 ml)", "price": "20", "image": "https://cagri.com/_next/image?url=https%3A%2F%2Fimages.cagri.com%2Fproduct%2F16948%2F1735266229716-9071-8690793010052.jpg&w=1920&q=75" },
+    { "name": "Soda", "price": "35", "image": "https://storage.kolaysiparis.com.tr/ks-prod/images/shop/60f07ad3dca14/products/611fc2b1ca7c6/61e6000a54a4d.jpeg" },
+    { "name": "Meyveli Soda", "price": "40", "image": "https://storage.kolaysiparis.com.tr/ks-prod/images/shop/60f07ad3dca14/products/611fc2b1ca7c6/61e6000a54a4d.jpeg" },
+    { "name": "Açık Ayran", "price": "40", "image": "https://varolgurme.com/menumen/image/catalog/icons/Soguk-icecekler/yayikayran2.jpg" },
     { "name": "CocaCola", "price": "65", "image": "https://media.istockphoto.com/id/458092443/photo/group-of-200ml-coca-cola-cans.jpg?s=612x612&w=0&k=20&c=NiWQkG0UKohdzN7F6u-KR0ABJeyPsDbioE9ZQj6Ig-4=" },
     { "name": "Fanta", "price": "65", "image": "https://www.fiemfidoner.com.tr/image/cache/catalog/urun_resimleri/icecekler/fanta_kutu-1233x823.jpg" },
     { "name": "Sprite", "price": "65", "image": "https://pizzarianpizza.com/wp-content/uploads/2024/12/sprite.png" },
@@ -406,10 +444,10 @@
     },
     { "name": "Atom", "price": "150", "image": "https://avatars.mds.yandex.net/i?id=aff4da78f80505b4d03161446a8a7134046420fe-4628663-images-thumbs&n=13" },
     { "name": "Churchil", "price": "70", "image": "https://image.hurimg.com/i/hurriyet/75/0x0/5ea6e5c87af5071758aa27c5.jpg" },
-    { "name": "Cappy Meyve Suları", "price": "0", "image": "https://mir-s3-cdn-cf.behance.net/projects/404/f8a231229291199.Y3JvcCwyNDgwLDE5MzksMCw3ODU.png" },
+    { "name": "Cappy Meyve Suları", "price": "65", "image": "https://mir-s3-cdn-cf.behance.net/projects/404/f8a231229291199.Y3JvcCwyNDgwLDE5MzksMCw3ODU.png" },
 
-    { "name": "Iced Latte", "price": "150", "image": "https://images.ctfassets.net/v601h1fyjgba/4GLzOncHIe8rq3xY099cZ/dd17ce72ebb6fb01659c763fe64953db/Iced_Latte.jpg" },
-    { "name": "Iced Mocha", "price": "150", "image": "https://vibrantlygfree.com/wp-content/uploads/2023/07/iced-mocha-1.jpg" },
+    { "name": "Iced Latte", "price": "120", "image": "https://images.ctfassets.net/v601h1fyjgba/4GLzOncHIe8rq3xY099cZ/dd17ce72ebb6fb01659c763fe64953db/Iced_Latte.jpg" },
+    { "name": "Iced Mocha", "price": "120", "image": "https://vibrantlygfree.com/wp-content/uploads/2023/07/iced-mocha-1.jpg" },
     { "name": "Iced White Mocha", "price": "150", "image": "https://lowcarbyum.com/wp-content/uploads/2022/04/iced-white-chocolate-mocha-sq.jpg" },
     { "name": "Iced Caramel Macchiato", "price": "150", "image": "https://www.torani.com/media/catalog/product/cache/66c03aeb3df56436f31336df721e2c97/I/c/Iced_Caramel_Mocha.jpg" },
     { "name": "Iced Vanilla Latte", "price": "150", "image": "https://instantpot.com/cdn/shop/articles/Iced-Vanilla-Latte-min.jpg?v=1707923262&width=3000" },
@@ -429,27 +467,27 @@
 
     {
       "name": "Vanilyalı Milkshake",
-      "price": "255",
+      "price": "130",
       "image": "https://t3.ftcdn.net/jpg/09/60/78/54/360_F_960785479_duR0GPpLbu7WaQMJPsg2Tn2Dp9NXSxz0.jpg"
     },
     {
       "name": "Çikolatalı Milkshake",
-      "price": "125",
+      "price": "130",
       "image": "https://img.freepik.com/premium-photo/chocolate-milkshake-with-pieces-chocolate-chip-cookies_434193-2888.jpg"
     },
     {
       "name": "Muzlu Milkshake",
-      "price": "125",
+      "price": "130",
       "image": "https://www.zeynel.com.tr/wp-content/uploads/2021/12/MUZLU-MILKSHAKE-SMOOTIE-scaled.jpg"
     },
     {
       "name": "Karamel Milkshake",
-      "price": "125",
+      "price": "130",
       "image": "https://www.altunmarket.com/app/assets/home/img/blog/karamelmilkshake-min.jpg"
     },
     {
       "name": "Çilek Milkshake",
-      "price": "125",
+      "price": "130",
       "image": "https://lizade.com/app/Images/cilekli-milkshake_1709106475.jpg"
     }
   ],
@@ -482,7 +520,7 @@
     },
     {
       "name": "Portakal",
-      "price": 180,
+      "price": 350,
       "image": "https://www.nargiledukkani.com/upload/editor/data/ckfinder/images/haberler/nargile-tutun-cesitleri-ve-aroma-karisimlari.jpg"
     },
     {

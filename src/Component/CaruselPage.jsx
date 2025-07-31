@@ -6,20 +6,26 @@ function CaruselPages() {
   const [categories, setCategories] = useState([]);
   const [activeTab, setActiveTab] = useState("");
   const [filteredItems, setFilteredItems] = useState([]);
-  const [cartItems, setCartItems] = useState([]); // 🛒 savat
+  const [cartItems, setCartItems] = useState([]);
 
   useEffect(() => {
     const keys = Object.keys(foodData);
     setCategories(keys);
     setActiveTab(keys[0]);
-    setFilteredItems(foodData[keys[0]]);
+    setFilteredItems(
+      foodData[keys[0]].map((item) =>
+        item.name === "Cool Lime" ? { ...item, isDiscounted: true } : item
+      )
+    );
   }, []);
 
-
-  
   const handleTabClick = (key) => {
     setActiveTab(key);
-    setFilteredItems(foodData[key]);
+    setFilteredItems(
+      foodData[key].map((item) =>
+        item.name === "Cool Lime" ? { ...item, isDiscounted: true } : item
+      )
+    );
   };
 
   const addToCart = (item) => {
@@ -70,13 +76,27 @@ function CaruselPages() {
       {/* Mahsulotlar */}
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4 px-2">
         {filteredItems.map((item, i) => (
-          <div key={i} className="bg-indigo-500 text-white rounded-lg shadow-md p-3 flex flex-col justify-between">
-            <img
-              src={item.image}
-              alt={item.name}
-              className="w-full h-28 object-cover rounded-md"
-            />
-            <h3 className="font-bold mt-2 text-sm">{item.name}</h3>
+          <div
+            key={i}
+            className="bg-indigo-500 text-white rounded-lg shadow-md p-3 flex flex-col justify-between"
+          >
+            {/* Rasm va chegirma belgisi */}
+            <div className="relative w-full h-28 mb-2">
+              <img
+                src={item.image}
+                alt={item.name}
+                className="w-full h-full object-cover rounded-md"
+              />
+              {item.isDiscounted && (
+                <img
+                  src="/discount.gif"
+                  alt="Chegirma"
+                  className="absolute top-1 right-1 w-12 h-12 bg-white rounded-full"
+                />
+              )}
+            </div>
+
+            <h3 className="font-bold mt-1 text-sm">{item.name}</h3>
             <p className="text-xs text-black min-h-[32px]">{item.ingredients}</p>
 
             <div className="flex justify-between items-center mt-2">

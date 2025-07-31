@@ -64,7 +64,7 @@ const DavetSaloni = () => {
       </div>
 
       {/* Navigasyon */}
-      <nav className="flex justify-center flex-wrap gap-4 sm:gap-6 text-white text-sm sm:text-lg bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg py-3 shadow-lg">
+      <nav className="flex justify-center flex-wrap gap-4 sm:gap-6 text-white text-xs sm:text-lg bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg py-3 shadow-lg">
         <a href="#hakkimizda" className="hover:underline">Hakkımızda</a>
         <a href="#hizmetlerimiz" className="hover:underline">Hizmetlerimiz</a>
         <a href="#galeri" className="hover:underline">Galeri</a>

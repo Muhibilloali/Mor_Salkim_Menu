@@ -70,7 +70,7 @@ ${cartItems.map((item, i) => `#${i + 1}: ${item.name} - ${item.price} TL`).join(
   };
 
   return (
-    <div className="p-4 md:p-6 space-y-6">
+    <div className="bg-indigo-500 p-4 md:p-6 space-y-6">
       <div className="flex items-center gap-3">
         <button
           onClick={() => window.history.back()}
