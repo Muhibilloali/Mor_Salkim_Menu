@@ -88,7 +88,7 @@
 
     { "name": "Klasik Menemen", "price": 150, "image": "https://cdn.ye-mek.net/App_UI/Img/out/650/2023/05/sogansiz-menemen-resimli-yemek-tarifi(11).jpg" },
     { "name": "Kaşarlı Menemen", "price": 200, "image": "https://raingo.com.tr/wp-content/uploads/2023/09/kasarli_menemen.png" },
-    { "name": "Sucuklu Menemen", "price": 175, "image": "http://www.roka.com.tr/resimler/26082016154330.jpg" },
+    { "name": "Sucuklu Menemen", "price": 175, "image": "https://buryani.com/wp-content/uploads/2023/11/sucuklumenemen.jpg" },
     { "name": "Karışık Menemen", "price": 200, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcOiYBSDyGVD_LKe1_8tCQHtaPqDqpbkZOPQ&s" },
 
     { "name": "Kaşarlı Gözleme", "price": 150, "image": "https://lh3.googleusercontent.com/proxy/Nw5BekxssEsvNHGKaeIwhJhC7ayCqHyYCQN6tBxPhmNUgE77FTVJSVkBv03wpZwsj7tah94dLHGVQ3PJ5uvVKMjmi7qV" },
@@ -115,7 +115,7 @@
     {
       "name": "Soğan Halkası",
       "price": 200,
-      "image": "https://www.karaca.com/blog/wp-content/uploads/2023/08/sogan-halkasi.jpg"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYv980lPJsHYlofLKTDZgl_tHICvV1BsjKoA&s"
     },
     {
       "name": "Kombo Tabağı",
@@ -221,7 +221,7 @@
       "name": "Saç Kavurma",
       "ingredients": "Izgara köfte, pilav ve özel sos",
       "price": 400,
-      "image": "https://menu.golpiknik.com/wp-content/uploads/2022/11/sac-kavurma-copy-min.jpg"
+      "image": "https://www.shutterstock.com/image-photo/meat-saute-turkish-et-sote-260nw-2403296711.jpg"
     },
 
     {
@@ -436,7 +436,7 @@
     { "name": "Fanta", "price": "65", "image": "https://www.fiemfidoner.com.tr/image/cache/catalog/urun_resimleri/icecekler/fanta_kutu-1233x823.jpg" },
     { "name": "Sprite", "price": "65", "image": "https://pizzarianpizza.com/wp-content/uploads/2024/12/sprite.png" },
     { "name": "Ice Tea Meyve Suları", "price": "65", "image": "https://www.coca-cola.com/content/dam/onexp/tr/tr/brands/fusetea/tr_fusetea_desktopbanner_1440x810.jpg" },
-    { "name": "Limonata Ev Yapımı ", "price": "100", "image": "https://menu.golpiknik.com/wp-content/uploads/2022/11/limonata.jpg" },
+    { "name": "Limonata Ev Yapımı ", "price": "100", "image": "https://www.formsante.com.tr/wp-content/uploads/2021/06/buzlukta-dondurulmus-limonata-1.jpg" },
     {
       "name": "Taze Portakal Suyu",
       "price": "150",

@@ -9,7 +9,7 @@ const GarsonModal = ({ onClose }) => {
 
   const modalRef = useRef(null);
 
-  const botToken = "7160637523:AAHLbVRgNd7yWO0WsBmvMVzOSau2Ex0q7z4";
+    const botToken = "8414809454:AAGzbYOMw8VgrudYpTF6JXfhrM3OQ6uc3YY";
   const chatId = "6059700809";
 
   const categories = ["Menüyü Getir", "Hesabı Getir", "Garsonu Çağır"];

@@ -8,7 +8,8 @@ function Sepet() {
   const [isSending, setIsSending] = useState(false);
   const [sent, setSent] = useState(false);
 
-  const botToken = "7160637523:AAHLbVRgNd7yWO0WsBmvMVzOSau2Ex0q7z4";
+
+  const botToken = "8414809454:AAGzbYOMw8VgrudYpTF6JXfhrM3OQ6uc3YY";
   const chatId = "6059700809";
 
   useEffect(() => {

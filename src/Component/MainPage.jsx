@@ -62,7 +62,7 @@ export default function MainPages() {
       <div className="fixed bottom-0 left-0 right-0 bg-indigo-700 text-white flex justify-around items-center py-3 z-10 rounded-t-xl">
         <FaHome
           className="text-2xl cursor-pointer"
-          onClick={() => navigate("/MainPages")}
+          onClick={() => navigate("/")}
         />
         <div
           className="relative cursor-pointer"
